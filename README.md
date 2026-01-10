@@ -23,6 +23,7 @@
 [![gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Roboflow/Annotators)
 [![discord](https://img.shields.io/discord/1159501506232451173?logo=discord&label=discord&labelColor=fff&color=5865f2&link=https%3A%2F%2Fdiscord.gg%2FGbfgXGJ8Bk)](https://discord.gg/GbfgXGJ8Bk)
 [![built-with-material-for-mkdocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBorda%2Fsupervision.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBorda%2Fsupervision?ref=badge_shield)
 
   <div align="center">
     <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -312,3 +313,7 @@ We love your input! Please see our [contributing guide](https://github.com/robof
       </a>
   </div>
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBorda%2Fsupervision.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBorda%2Fsupervision?ref=badge_large)
